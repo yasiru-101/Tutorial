@@ -1,0 +1,1 @@
+This is a basic Python script that performs addition between two numbers.
